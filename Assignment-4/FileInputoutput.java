@@ -10,7 +10,7 @@ public class Syncronized {
     { 
        BufferedReader br = null;
         try {
-            br = new BufferedReader(new FileReader("C:\\Users\\wahed\\OneDrive\\Documents\\NetBeansProjects\\HelloJava\\src\\OOP\\Dhruvo.html"));
+            br = new BufferedReader(new FileReader("C:\\Users\\wahed\\OneDrive\\Documents\\NetBeansProjects\\HelloJava\\src\\OOP\\Farhad.html"));
             String s;
             String[] words = null;
             int count = 1;
